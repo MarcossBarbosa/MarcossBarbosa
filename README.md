@@ -3,7 +3,8 @@
 
 
 - 🔭 Atualmente trabalho, mas não pela área dos meus estudos. 
-- 🌱 Estudando 2º semestre  em Análise e desenvolvimento de sistemas, 2º semestre pela Pitágoras.
+-  📚 Estudando Análise e desenvolvimento de sistemas, pela Pitágoras.
+-  ⚖ 2° semestre.
 
 -<div align="center">
   <a href="https://github.com/MarcossBarbosa">
