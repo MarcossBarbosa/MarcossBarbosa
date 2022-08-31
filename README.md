@@ -1,10 +1,7 @@
 ## Oii!! Eu sou o Marcos Barbosa, Estudante de tecnologia!
 
-
-
-- 🔭 Atualmente trabalho, mas não pela área dos meus estudos. 
 -  📚 Estudando Análise e desenvolvimento de sistemas, pela Pitágoras.
--  ⚖ 2° semestre.
+-  ⚖ 3° semestre.
 
 -<div align="center">
   <a href="https://github.com/MarcossBarbosa">
