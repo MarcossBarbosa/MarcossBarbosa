@@ -2,7 +2,7 @@
 
 -  📚 Estudando Análise e desenvolvimento de sistemas, pela Pitágoras.
 -  📚 Estudando | Python | MYSQL
--  ⚖ 3° semestre. 
+-  ⚖ 5° semestre. 
 
 <div align="center">
   <a href="https://github.com/MarcossBarbosa">
