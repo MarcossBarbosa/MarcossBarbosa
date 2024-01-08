@@ -1,8 +1,8 @@
 ## Oii!! Eu sou o Marcos Barbosa, Estudante de tecnologia!
 
--  📚 Estudando Análise e desenvolvimento de sistemas, pela Pitágoras.
+-  📚 Estudando Análise e desenvolvimento de sistemas | Pitágoras
 -  📚 Estudando | Python | MYSQL
--  ⚖ 5° semestre. 
+-  ⌨ Estagiário de Suporte | Ministério Público do Estado de Minas Gerais
 
 <div align="center">
   <a href="https://github.com/MarcossBarbosa">
