@@ -33,15 +33,21 @@ Minhas principais linguagens são Python e o framework flesk, estou aprimorando 
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="8" />
-  
 </div>
+
   
 <h3 align="left">Stats</h3>
 <div align="Left">
   <a href="https://github.com/MarcossBarbosa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcossBarbosa&hide_title=true&include_all_commits=true&count_private=true&show_icons=true&line_height=25&langs_count=7&line_height=20&border_radius=10&theme=transparent&text_color=FFF&border_color=38C2FFFF&"/>     
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcossBarbosa&hide_title=true&include_all_commits=true&count_private=true&show_icons=true&line_height=25&langs_count=7&line_height=20&border_radius=10&theme=transparent&text_color=FFF&border_color=38C2FFFF&"/>   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcossBarbosa&layout=compact&line_height=25&text_color=FFF&border_color=38C2FFFF&title_color=38C2FFFF&langs_count=7&theme=transparent&border_radius=10"/>                       
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarcossBarbosa/MarcossBarbosa/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MarcossBarbosa/MarcossBarbosa/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MarcossBarbosa/MarcossBarbosa/output/github-contribution-grid-snake.svg">
+</picture>
     
 <div style="display: inline_block"><br>
 
