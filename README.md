@@ -4,13 +4,51 @@
 
 
 
-<div>
-<p align="left"> Atualmente atuo como estagiário de TI no Ministério Público do Estado de Minas Gerais e estudante de Análise e Desenvolvimento
-de Sistemas(Faculdade Anhaguera). Venha em busca da minha primeira experiencia na área de desenvilvimento, 
-me intereço nas áreas de Back-end e Front-end. Minhas experiências com códigos foi na faculdade e estudos por conta própria, a faculdade me deu oportunidade de desenvolver um projeto com mais três colegas de sala,
-aonde tive a oportunidade de trabalhar em equipe e poder mostrar as habilidade que aprendir em sala de aula e sozinho, pude contribuir com meus colegas e concluír o projeto que está aqui no portifólio do Git Hub.
-Minhas principais linguagens são Python e o framework flesk, estou aprimorando mais em outras bibliotecas como django e OS. Usamos Java no projeto em android, então tenho um básico conhecimento em java.
-</div>
+<section>
+        <p>🎓 <strong>Estudante de Análise e Desenvolvimento de Sistemas</strong> na Anhanguera (2021-2024).</p>
+        <p>💻 <strong>Analista de Desenvolvimento Jr.</strong> com experiência em suporte técnico, desenvolvimento de sistemas e projetos freelancer.</p>
+        <p>🛠️ Trabalhando em projetos usando <strong>Vue.js</strong>, <strong>Python (Django)</strong>, e <strong>JavaScript</strong>.</p>
+        <p>📚 Explorando <strong>algoritmos</strong>, <strong>estruturas de dados</strong>, <strong>DevOps</strong>, e <strong>Cybersecurity</strong>.</p>
+        <p>🌟 Tenho experiência prática com <strong>sistemas operacionais</strong> (Windows e Linux), <strong>banco de dados</strong> (SQL), e <strong>Programação Orientada a Objetos</strong>.</p>
+        <p>🔧 Realizei projetos como:</p>
+        <ul>
+            <li>Um <strong>software de orçamento de notas</strong> em Python.</li>
+            <li>Um app de <strong>agendamentos para barbearia</strong> como freelancer.</li>
+            <li>Paginação e relatórios em projetos Vue.js com integração back-end.</li>
+        </ul>
+    </section>
+    <section>
+        <h2>🚀 Habilidades Técnicas</h2>
+        <ul>
+            <li><strong>Linguagens:</strong> Python, Java, JavaScript.</li>
+            <li><strong>Frameworks & Ferramentas:</strong> Vue.js, Django.</li>
+            <li><strong>Sistemas Operacionais:</strong> Linux (Debian, Ubuntu), Windows.</li>
+            <li><strong>Versionamento:</strong> Git, GitHub.</li>
+            <li><strong>Outras ferramentas:</strong> Bootstrap, localStorage.</li>
+        </ul>
+    </section>
+    <section>
+        <h2>💡 O que estou aprendendo</h2>
+        <ul>
+            <li>Otimização de exibição de dados para grande escala.</li>
+            <li>Métodos genéricos e reutilizáveis em JavaScript.</li>
+            <li>Manipulação de lógica e integração de APIs no back-end com Python.</li>
+        </ul>
+    </section>
+    <section>
+        <h2>📈 O que me define</h2>
+        <ul>
+            <li>📌 Determinação e capacidade de superar desafios técnicos.</li>
+            <li>🤝 Trabalho em equipe e habilidades de liderança.</li>
+            <li>🌟 Curioso e sempre disposto a aprender algo novo.</li>
+        </ul>
+    </section>
+    <footer>
+        <p>💬 Quer colaborar comigo ou conversar?</p>
+        <p>📧 <strong>Email:</strong> (adicione aqui seu email profissional)</p>
+        <p>📍 <strong>Local:</strong> Santa Luzia, MG</p>
+        <p>⚡ <em>"A tecnologia é uma ferramenta para criar o futuro, e eu estou aqui para construir o meu!"</em></p>
+    </footer>
 
 <h3 align="left">My contact!</h3>
 
