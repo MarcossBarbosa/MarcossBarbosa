@@ -5,7 +5,7 @@
 
 
 <section>
-        <p>🎓 <strong>Estudante de Análise e Desenvolvimento de Sistemas</strong> na Anhanguera (2021-2024).</p>
+        <p>🎓 <strong> Análise e Desenvolvimento de Sistemas</strong> (2021-2024).</p>
         <p>💻 <strong>Analista de Desenvolvimento Jr.</strong> com experiência em suporte técnico, desenvolvimento de sistemas e projetos freelancer.</p>
         <p>🛠️ Trabalhando em projetos usando <strong>Vue.js</strong>, <strong>Python (Django)</strong>, e <strong>JavaScript</strong>.</p>
         <p>📚 Explorando <strong>algoritmos</strong>, <strong>estruturas de dados</strong>, <strong>DevOps</strong>, e <strong>Cybersecurity</strong>.</p>
@@ -45,7 +45,7 @@
     </section>
     <footer>
         <p>💬 Quer colaborar comigo ou conversar?</p>
-        <p>📧 <strong>Email:</strong> (adicione aqui seu email profissional)</p>
+        <p>📧 <strong>Email:</strong> Click no icone do email</p>
         <p>📍 <strong>Local:</strong> Santa Luzia, MG</p>
         <p>⚡ <em>"A tecnologia é uma ferramenta para criar o futuro, e eu estou aqui para construir o meu!"</em></p>
     </footer>
