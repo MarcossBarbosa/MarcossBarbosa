@@ -71,6 +71,8 @@
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="8" />
+  <img src="https://img.shields.io/badge/Django-3.2-green?style=flat&logo=django"  height="40" alt="django logo" /> 
+  <img width="8" />     
 </div>
 
   
