@@ -21,7 +21,7 @@
         <h2>🚀 Habilidades Técnicas</h2>
         <ul>
             <li><strong>Linguagens:</strong> Python, Java, JavaScript.</li>
-            <li><strong>Frameworks & Ferramentas:</strong> Vue.js, Django.</li>
+            <li><strong>Frameworks & Ferramentas:</strong> Vue.js, Django REST Framework.</li>
             <li><strong>Sistemas Operacionais:</strong> Linux (Debian, Ubuntu), Windows.</li>
             <li><strong>Versionamento:</strong> Git, GitHub.</li>
             <li><strong>Outras ferramentas:</strong> Bootstrap, localStorage.</li>
