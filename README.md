@@ -7,7 +7,7 @@
 <section>
         <p>🎓 <strong> Análise e Desenvolvimento de Sistemas</strong> (2021-2024).</p>
         <p>💻 <strong>Analista de Desenvolvimento Jr.</strong> com experiência em suporte técnico, desenvolvimento de sistemas e projetos freelancer.</p>
-        <p>🛠️ Trabalhando em projetos usando <strong>Vue.js</strong>, <strong>Python (Django)</strong>, e <strong>JavaScript</strong>.</p>
+        <p>🛠️ Trabalhando em projetos usando <strong>Vue.js</strong>, <strong>Python (Django)</strong>,<strong>Django REST Framework</strong> e <strong>JavaScript</strong>.</p>
         <p>📚 Explorando <strong>algoritmos</strong>, <strong>estruturas de dados</strong>, <strong>DevOps</strong>, e <strong>Cybersecurity</strong>.</p>
         <p>🌟 Tenho experiência prática com <strong>sistemas operacionais</strong> (Windows e Linux), <strong>banco de dados</strong> (SQL), e <strong>Programação Orientada a Objetos</strong>.</p>
         <p>🔧 Realizei projetos como:</p>
