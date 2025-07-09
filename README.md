@@ -5,6 +5,7 @@
 
 
 <section>
+        <p>Apaixonado em tecnologia e estou sempre em busca de novos aprendizados!</p>
         <p>🎓 <strong> Análise e Desenvolvimento de Sistemas</strong> (2021-2024).</p>
         <p>💻 <strong>Analista de Desenvolvimento Jr.</strong> com experiência em suporte técnico, desenvolvimento de sistemas e projetos freelancer.</p>
         <p>🛠️ Trabalhando em projetos usando <strong>Vue.js</strong>, <strong>Python (Django)</strong>, <strong>Django REST Framework</strong> e <strong>JavaScript</strong>.</p>
@@ -31,7 +32,7 @@
         <h2>💡 O que estou aprendendo</h2>
         <ul>
             <li>Otimização de exibição de dados para grande escala.</li>
-            <li>Métodos genéricos e reutilizáveis em JavaScript.</li>
+            <li>Desenvolvimento mobile com kotlin.</li>
             <li>Manipulação de lógica e integração de APIs no back-end com Python.</li>
         </ul>
     </section>
